@@ -1,0 +1,15 @@
+C:\workspace\Front\BootCamp-DIO\RPG C#\obj\Debug\net6.0\RPG C#.csproj.AssemblyReference.cache
+C:\workspace\Front\BootCamp-DIO\RPG C#\obj\Debug\net6.0\RPG C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Front\BootCamp-DIO\RPG C#\obj\Debug\net6.0\RPG C#.AssemblyInfoInputs.cache
+C:\workspace\Front\BootCamp-DIO\RPG C#\obj\Debug\net6.0\RPG C#.AssemblyInfo.cs
+C:\workspace\Front\BootCamp-DIO\RPG C#\obj\Debug\net6.0\RPG C#.csproj.CoreCompileInputs.cache
+C:\workspace\Front\BootCamp-DIO\RPG C#\bin\Debug\net6.0\RPG C#.exe
+C:\workspace\Front\BootCamp-DIO\RPG C#\bin\Debug\net6.0\RPG C#.deps.json
+C:\workspace\Front\BootCamp-DIO\RPG C#\bin\Debug\net6.0\RPG C#.runtimeconfig.json
+C:\workspace\Front\BootCamp-DIO\RPG C#\bin\Debug\net6.0\RPG C#.dll
+C:\workspace\Front\BootCamp-DIO\RPG C#\bin\Debug\net6.0\RPG C#.pdb
+C:\workspace\Front\BootCamp-DIO\RPG C#\obj\Debug\net6.0\RPG C#.dll
+C:\workspace\Front\BootCamp-DIO\RPG C#\obj\Debug\net6.0\refint\RPG C#.dll
+C:\workspace\Front\BootCamp-DIO\RPG C#\obj\Debug\net6.0\RPG C#.pdb
+C:\workspace\Front\BootCamp-DIO\RPG C#\obj\Debug\net6.0\RPG C#.genruntimeconfig.cache
+C:\workspace\Front\BootCamp-DIO\RPG C#\obj\Debug\net6.0\ref\RPG C#.dll

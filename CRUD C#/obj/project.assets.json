@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Front\\BootCamp-DIO\\RPG C#\\RPG C#.csproj",
-      "projectName": "RPG C#",
-      "projectPath": "C:\\workspace\\Front\\BootCamp-DIO\\RPG C#\\RPG C#.csproj",
+      "projectUniqueName": "C:\\workspace\\Front\\BootCamp-DIO\\CRUD C#\\CRUD C#.csproj",
+      "projectName": "CRUD C#",
+      "projectPath": "C:\\workspace\\Front\\BootCamp-DIO\\CRUD C#\\CRUD C#.csproj",
       "packagesPath": "C:\\Users\\Gigahertz\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\Front\\BootCamp-DIO\\RPG C#\\obj\\",
+      "outputPath": "C:\\workspace\\Front\\BootCamp-DIO\\CRUD C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gigahertz\\AppData\\Roaming\\NuGet\\NuGet.Config",

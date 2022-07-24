@@ -1,6 +1,6 @@
 export{}
 
-let botaoAtualizar = document.getElementById('atualizar-saldo');
+let botaoAtualizar = document.getElementById('atualizar-saldo')!;
 let botaoLimpar = document.getElementById('limpar-saldo')!;
 let soma = document.getElementById('soma')! as HTMLInputElement;
 let campoSaldo = document.getElementById('campo-saldo');
@@ -28,11 +28,11 @@ function limparSaldo() {
     }
 }
 
-if (botaoAtualizar) {
-botaoAtualizar.addEventListener('click',  ()  => {
+ 
+botaoAtualizar.addEventListener("click",  () => {
     somarAoSaldo(Number(soma.value));
 });
-}
+
 
 botaoLimpar.addEventListener('click',  () => {
     limparSaldo();
